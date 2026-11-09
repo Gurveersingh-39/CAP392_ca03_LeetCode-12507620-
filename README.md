@@ -12,3 +12,9 @@ https://leetcode.com/problems/valid-perfect-square/submissions/2192204481/
 
 Leetcode question (69)
 https://leetcode.com/problems/sqrtx/submissions/2192204904/
+
+Leetcode question (7)
+https://leetcode.com/problems/reverse-integer/submissions/2192454731/
+
+Leetcode question (1295)
+https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/2192456241/
