@@ -1,2 +1,14 @@
 # CAP392_ca03_LeetCode-12507620-
 JAVA LeetCode problems
+
+Leetcode question (1342)
+https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/submissions/2192203435/
+
+Leetcode question (258)
+https://leetcode.com/problems/add-digits/submissions/2192204142/
+
+Leetcode question (367)
+https://leetcode.com/problems/valid-perfect-square/submissions/2192204481/
+
+Leetcode question (69)
+https://leetcode.com/problems/sqrtx/submissions/2192204904/
