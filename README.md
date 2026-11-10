@@ -18,3 +18,9 @@ https://leetcode.com/problems/reverse-integer/submissions/2192454731/
 
 Leetcode question (1295)
 https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/2192456241/
+
+Leetcode question (2114)
+https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/submissions/2192861450/
+
+Leetcode question (9)
+https://leetcode.com/problems/palindrome-number/submissions/2192861960/
