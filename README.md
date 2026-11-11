@@ -24,3 +24,17 @@ https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/submiss
 
 Leetcode question (9)
 https://leetcode.com/problems/palindrome-number/submissions/2192861960/
+
+Leetcode question (217)
+https://leetcode.com/problems/contains-duplicate/submissions/2193586242/
+
+MEDIUM QUESTION
+
+Leetcode question (15)
+https://leetcode.com/problems/3sum/submissions/2193587252/
+
+Leetcode question (16)
+https://leetcode.com/problems/3sum-closest/submissions/2193587811/
+
+Leetcode question (73)
+https://leetcode.com/problems/set-matrix-zeroes/submissions/2193588534/
